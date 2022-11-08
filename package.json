@@ -1,0 +1,22 @@
+{
+  "name": "miprimerbackend",
+  "version": "0.9.0",
+  "description": "mi primer backed 35, 43 y 46.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anfejaramillo/miprimerbackend35y43y46.git"
+  },
+  "author": "anfejaramillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anfejaramillo/miprimerbackend35y43y46/issues"
+  },
+  "homepage": "https://github.com/anfejaramillo/miprimerbackend35y43y46#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
